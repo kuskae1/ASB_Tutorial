@@ -16,5 +16,6 @@ I have reviewed your figure, and I respect all the work that was put into it. In
     - Please change all outline widths to 10.
 - **script_4**
     - Please change the ASB text color to red.
+*Response: Although this is a horrible request, we have obliged in the resubmission.
 - **script_5**
     - Please change the year to "Reviewer 2 is the best," and make it green.
